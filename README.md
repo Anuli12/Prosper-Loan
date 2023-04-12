@@ -1,6 +1,6 @@
 # Prosper-Loan
 Prosper Marketplace, Inc. is a company in the financial services sector located in San Francisco, California. It owns a subsidiary called Prosper Funding LLC, which runs an online platform called Prosper.com. This platform enables individuals to apply for personal loans, credit cards, or invest in loans. The dataset for Prosper Loans comprises 113,937 rows and 81 variables. It encompasses various details such as the loan's current status, investors, credit ratings, the service fees paid by investors, and many others. My analysis of the dataset focused on 8 variables out of the entire dataset.  The set of 8 variables that I analyzed comprised ProsperRating (numeric), ProsperRating (alpha), Loan Status, Borrower APR, Debt-to-Income Ratio, Employment Status, Loan Amount, and Monthly Income.
-# Insights
+# Key Insights
 After analyzing the loan data provided by Prosper loan, several key findings have emerged. The lender primarily provides loans ranging from $1,000 to $25,000, with a lack of significant loan records above $25,000. This suggests that the lender may specialize in providing smaller loans to borrowers.
 
 Another finding is that borrowers with higher Prosper ratings tend to receive larger loans than those with lower ratings. This is evidenced by the increasing median Loan Original Amount with higher ratings, as well as the greater variability in loan amounts offered to borrowers with higher ratings.
